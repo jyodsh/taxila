@@ -34,10 +34,6 @@ const config: GatsbyConfig = {
         ],
         externalLinks: [
           {
-            name: `Twitter`,
-            url: `https://twitter.com/jyodsh`,
-          },
-          {
             name: `Photos`,
             url: `https://www.lenstale.com`,
           },
